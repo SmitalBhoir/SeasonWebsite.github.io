@@ -1,1 +1,1 @@
-# SeasonWebsite.github.io
+# seasons-website.github.io
